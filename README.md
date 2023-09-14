@@ -1,3 +1,5 @@
+# This repo has been moved to https://github.com/nesi/research-developer-cloud, this is now archived and will be deleted in the future
+
 # NeSI FlexiHPC User Guide Documentation
 
 This is the content that hosts the site https://nesi.github.io/flexi-docs/
